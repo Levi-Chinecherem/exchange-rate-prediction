@@ -3,6 +3,8 @@
 
 This repository contains a Python script that demonstrates the use of a neural network to predict exchange rates using economic indicators. It generates random data for exchange rates and economic indicators, trains a neural network model, and provides predictions for exchange rates along with the context of economic indicators. This exchange rate is based on naira to dollar market values.
 
+![SAMPLE IMAGE](https://github.com/Levi-Chinecherem/exchange-rate-prediction/blob/main/sample1.png)
+
 ## Exchange Rate Prediction System: A Powerful Tool for Economic Analysis and Financial Decisions
 Welcome to the Exchange Rate Prediction System, a cutting-edge Python application that empowers you to gain insightful economic perspectives and make informed financial decisions through predictive modeling. This system harnesses the potential of neural networks to forecast exchange rates, enabling you to understand currency fluctuations and their implications for economic trends and investment strategies.
 
