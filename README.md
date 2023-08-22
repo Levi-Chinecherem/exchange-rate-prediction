@@ -59,6 +59,9 @@ python exchange_rate_prediction.py
 
 The system's main components are as follows:
 
+![SAMPLE IMAGE](https://github.com/Levi-Chinecherem/exchange-rate-prediction/blob/main/sample2.png)
+
+
 - **Data Generation**: Consistent random data is generated for exchange rate values and economic indicators.
 
 - **Neural Network Model**: A neural network model is constructed to predict exchange rates based on economic indicators. The model architecture includes two linear layers and ReLU activation.
